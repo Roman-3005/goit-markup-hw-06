@@ -1308,16 +1308,21 @@ button {
 .modal-button:focus {
   background-color: #404bbf;
 }
-/* #endregion Modal */
 
-/* width: 408px;
-min-height: 584px;
-padding: 72px 24px 24px 24px;
+@media screen and (min-width: 768px) {
+  .modal {
+    width: 408px;
+    min-height: 584px;
+    padding: 72px 24px 24px 24px;
+  }
 
-  margin-left: 4px;
+  .custom-text-privacy {
+    display: flex;
+    flex-direction: row;
+  }
 }
 
 .link-block {
-  display: block;
-  padding: 0;
-} */
+  margin-left: 4px;
+}
+/* #endregion Modal */
