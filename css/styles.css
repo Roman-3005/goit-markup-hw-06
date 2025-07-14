@@ -386,7 +386,7 @@ button {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url('/images/section-solution-background/mob-bg.jpg');
+    url('../images/section-solution-background/mob-bg.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -399,7 +399,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('/images/section-solution-background/mob-bg-2x.jpg');
+      url('../images/section-solution-background/mob-bg-2x.jpg');
   }
 }
 
@@ -452,7 +452,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('/images/section-solution-background/tab-bg.jpg');
+      url('../images/section-solution-background/tab-bg.jpg');
   }
 
   .header-solution {
@@ -470,7 +470,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('/images/section-solution-background/tab-bg-2x.jpg');
+      url('../images/section-solution-background/tab-bg-2x.jpg');
   }
 }
 
@@ -482,7 +482,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('/images/section-solution-background/desk-bg.jpg');
+      url('../images/section-solution-background/desk-bg.jpg');
   }
 
   .header-solution {
@@ -497,7 +497,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('/images/section-solution-background/desk-bg-2x.jpg');
+      url('../images/section-solution-background/desk-bg-2x.jpg');
   }
 }
 /* #endregion Section-solution */
