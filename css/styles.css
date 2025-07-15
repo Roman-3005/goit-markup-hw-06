@@ -824,7 +824,6 @@ button {
 /* #region Footer */
 .page-footer {
   background-color: #2e2f42;
-  padding: 96px 16px;
 }
 
 .footer-container {
@@ -833,6 +832,8 @@ button {
   justify-content: center;
   gap: 72px;
   text-align: center;
+  padding-top: 96px;
+  padding-bottom: 96px;
 }
 
 .footer-left,
@@ -996,7 +997,7 @@ button {
   }
 
   .footer-container {
-    padding: 100px 0;
+    padding: 100px 15px;
     gap: 0;
   }
   .footer-left {
@@ -1011,7 +1012,6 @@ button {
     margin-right: auto;
   }
 }
-
 /* #endregion Footer */
 
 /* #region Modal */
