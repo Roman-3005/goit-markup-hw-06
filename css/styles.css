@@ -659,7 +659,6 @@ button {
 }
 
 .team-item-list {
-  box-sizing: border-box;
   justify-content: center;
   align-items: center;
   gap: 24px;
